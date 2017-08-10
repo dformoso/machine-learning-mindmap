@@ -34,3 +34,6 @@ A list of all the types, categories, approaches, libraries, and methodology.
 A sampling of the most popular models. Send your comments to add more.
 
 ![alt text](https://github.com/dformoso/machine-learning-mindmap/blob/master/Models.png)
+
+## About Me
+https://www.linkedin.com/in/danielmartinezformoso/
