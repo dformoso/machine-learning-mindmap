@@ -4,7 +4,7 @@ A Mindmap summarising Machine Learning concepts, from Data Analysis to Deep Lear
 ## Overview
 Machine Learning is a subfield of computer science that gives computers the ability to learn without being explicitly programmed. It explores the study and construction of algorithms that can learn from and make predictions on data.
 
-Machine Learning is as fascinating as it is broad in scope. It spans over multiple fields in Mathematics, Computer Science, and Neuroscience. This is an attempt to summarize this enourmeous field in one .PDF files.
+Machine Learning is as fascinating as it is broad in scope. It spans over multiple fields in Mathematics, Computer Science, and Neuroscience. This is an attempt to summarize this enormous field in one .PDF file.
 
 ## Download
 Download the PDF here: 
