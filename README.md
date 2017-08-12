@@ -26,7 +26,7 @@ Machine Learning is a house built on Math bricks. Browse through the most common
 ![alt text](https://github.com/dformoso/machine-learning-mindmap/blob/master/Mathematics.png)
 
 ## 4. Concepts
-A list of all the types, categories, approaches, libraries, and methodology.
+A list of the types, categories, approaches, libraries, and methodology.
 
 ![alt text](https://github.com/dformoso/machine-learning-mindmap/blob/master/Concepts.png)
 
