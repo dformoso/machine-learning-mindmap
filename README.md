@@ -12,7 +12,7 @@ Download the PDF here:
 
 ## Companion Notebook
 This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps that can be found at the following link:
-- https://github.com/dformoso/sklearn-classification/blob/master/README.md
+- https://github.com/dformoso/sklearn-classification
 
 ## 1. Process
 The Data Science it's not a set-and-forget effort, but a process that requires design, implementation and maintenance. The PDF contains a quick overview of what's involved. Here's a quick screenshot.
