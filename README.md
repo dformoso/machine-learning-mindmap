@@ -11,7 +11,7 @@ Download the PDF here:
 - https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
 
 ## Companion Notebook
-This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps, that can be found at the following link:
+This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps that can be found at the following link:
 - https://github.com/dformoso/sklearn-classification/blob/master/README.md
 
 ## 1. Process
