@@ -10,6 +10,10 @@ Machine Learning is as fascinating as it is broad in scope. It spans over multip
 Download the PDF here: 
 https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
 
+## Companion Notebook
+This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps, which can be find at the following link:
+- https://github.com/dformoso/sklearn-classification/blob/master/README.md
+
 ## 1. Process
 The Data Science it's not a set-and-forget effort, but a process that requires design, implementation and maintenance. The PDF contains a quick overview of what's involved. Here's a quick screenshot.
 
