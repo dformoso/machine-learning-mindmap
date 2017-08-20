@@ -10,7 +10,7 @@ Machine Learning is as fascinating as it is broad in scope. It spans over multip
 Download the PDF here:
 - https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
 
-I've built the Mindmap with MindNode for the Mac. https://mindnode.com
+I've built the mindmap with MindNode for the Mac. https://mindnode.com
 
 ## Companion Notebook
 This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps that can be found at the following link:
@@ -47,7 +47,11 @@ A sampling of the most popular models. Send your comments to add more.
 
 
 ## About Me
-Linkedin:
-- https://twitter.com/danielmartinezf
 Twitter:
+- https://twitter.com/danielmartinezf
+
+Linkedin:
 - https://www.linkedin.com/in/danielmartinezformoso/
+
+Email:
+- daniel.martinez.formoso@gmail.com
