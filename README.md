@@ -15,8 +15,6 @@ I've built the mindmap with MindNode for the Mac. https://mindnode.com
 ## Companion Notebook
 This Mindmap/Cheatsheet has a companion Jupyter Notebook that runs through most of the Data Science steps that can be found at the following link:
 - https://github.com/dformoso/sklearn-classification
-Jupyter Notebook installation guide:
-- https://jupyter.readthedocs.io/en/latest/install.html
 
 ## Mindmap on Deep Learning
 Here's another mindmap which focuses only on Deep Learning
