@@ -13,7 +13,7 @@ Download the PDF here:
 I've built the mindmap with MindNode for the Mac. https://mindnode.com
 
 ## Companion Notebook
-This Mindmap/Cheatsheet has a companion Jupyter Notepad that runs through most of the Data Science steps that can be found at the following link:
+This Mindmap/Cheatsheet has a companion Jupyter Notebook that runs through most of the Data Science steps that can be found at the following link:
 - https://github.com/dformoso/sklearn-classification
 
 ## Mindmap on Deep Learning
