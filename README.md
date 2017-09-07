@@ -53,11 +53,14 @@ A sampling of the most popular models. Send your comments to add more.
 I'm planning to built a more complete list of references in the future. For now, these are some of the sources I've used to create this Mindmap.
 
 - Stanford and Oxford Lectures. CS20SI, CS224d.
-- Books: Deep Learning - Goodfellow. Pattern Recognition and Machine Learning - Bishop. The elements of statistical learning - Hastie.
+- Books: 
+  - Deep Learning - Goodfellow. 
+  - Pattern Recognition and Machine Learning - Bishop. 
+  - The Elements of Statistical Learning - Hastie.
 - Colah's Blog. http://colah.github.io
 - Kaggle Notebooks.
 - Tensorflow Documentation pages.
-- Google Cloud Data Engineer meterials.
+- Google Cloud Data Engineer certification materials.
 - Multiple Wikipedia articles.
 
 
