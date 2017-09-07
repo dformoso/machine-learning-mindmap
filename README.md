@@ -10,6 +10,9 @@ Machine Learning is as fascinating as it is broad in scope. It spans over multip
 Download the PDF here:
 - https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning.pdf
 
+Same, but with a white background:
+- https://github.com/dformoso/machine-learning-mindmap/blob/master/Machine%20Learning%20-%20White%20BG.pdf
+
 I've built the mindmap with MindNode for the Mac. https://mindnode.com
 
 ## Companion Notebook
