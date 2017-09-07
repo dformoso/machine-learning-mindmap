@@ -49,6 +49,18 @@ A sampling of the most popular models. Send your comments to add more.
 ![alt text](https://github.com/dformoso/machine-learning-mindmap/blob/master/images/Models.png)
 
 
+## References
+I'm planning to built a more complete list of references in the future. For now, these are some of the sources I've used to create this Mindmap.
+
+- Stanford and Oxford Lectures. CS20SI, CS224d.
+- Books: Deep Learning - Goodfellow. Pattern Recognition and Machine Learning - Bishop. The elements of statistical learning - Hastie.
+- Colah's Blog. http://colah.github.io
+- Kaggle Notebooks.
+- Tensorflow Documentation pages.
+- Google Cloud Data Engineer meterials.
+- Multiple Wikipedia articles.
+
+
 ## About Me
 Twitter:
 - https://twitter.com/danielmartinezf
