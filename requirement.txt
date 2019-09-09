@@ -1,0 +1,23 @@
+numpy 
+pandas 
+SciPy 
+Matplotlib 
+Seaborn 
+Bokeh 
+Plotly 
+SciKit-Learn 
+Keras 
+NLTK 
+Gensim 
+Scrapy 
+Statsmodels
+pytorch-cpu -c pytorch
+scikit-image
+opencv-python
+Pillow
+lightgbm
+featuretools
+rgf_python
+lightfm
+openai 
+gym
