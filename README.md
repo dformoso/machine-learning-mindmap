@@ -66,10 +66,10 @@ I'm planning to built a more complete list of references in the future. For now,
 
 ## About Me
 Twitter:
-- https://twitter.com/danielmartinezf
+- https://twitter.com/Ashish_patel26
 
 Linkedin:
-- https://www.linkedin.com/in/danielmartinezformoso/
+- https://www.linkedin.com/in/ashishpatel2604/
 
 Email:
-- daniel.martinez.formoso@gmail.com
+- ashishpatel.ce.2011@gmail.com
